@@ -1,0 +1,18 @@
+Sample valid input
+12 3 -5 1
+1 5 3 28
+3 7 13 76
+1 0 1   //initial value
+
+Assignment input.. (not diagonal dominant)
+3 4 2 900
+3 1 1 510
+1 2 3 610
+3 10 5
+
+If the given input is like ..then result will go toword convergence
+// using two or less instead of 3
+2 4 2 900     
+3 1 1 510
+1 2 3 610
+3 10 5
